@@ -5,6 +5,6 @@ int main()
 {
     string name;
     cout<<"hello world"<<endl;
-    cout<<"hi {name}";
+    
     return 0;
 }
